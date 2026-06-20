@@ -1,2 +1,2 @@
-# codeAlpha_tasks
-codealpha python tasks
+# python_tasks
+personal python tasks
